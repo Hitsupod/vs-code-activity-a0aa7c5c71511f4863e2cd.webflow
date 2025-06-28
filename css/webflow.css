@@ -1118,10 +1118,14 @@ textarea.w-select {
 .w-dropdown-link:focus {
   outline: 0;
 }
-@media screen and (max-width: 767px) {
-  .w-nav-brand {
-    padding-left: 10px;
-  }
+.make-me-pretty {
+  color: red;
+  background-color: white;
+}
+
+.my-class {
+  color: orange;
+  font-size: 100px;
 }
 /**
  * ## Note
